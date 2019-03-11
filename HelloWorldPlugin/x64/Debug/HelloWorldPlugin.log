@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (HelloWorldPlugin.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Greeter.cpp
+c:\users\100523109\desktop\gameengines\tut1\hellowparticle\helloworldplugin\greeter.cpp(21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\100523109\desktop\gameengines\tut1\hellowparticle\helloworldplugin\greeter.cpp(65): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  LINK : C:\Users\100523109\Desktop\gameEngines\Tut1\HellowParticle\x64\Debug\HelloWorldParticle.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\100523109\Desktop\gameEngines\Tut1\HellowParticle\x64\Debug\HelloWorldParticle.lib and object C:\Users\100523109\Desktop\gameEngines\Tut1\HellowParticle\x64\Debug\HelloWorldParticle.exp
+  HelloWorldPlugin.vcxproj -> C:\Users\100523109\Desktop\gameEngines\Tut1\HellowParticle\x64\Debug\HelloWorldParticle.dll

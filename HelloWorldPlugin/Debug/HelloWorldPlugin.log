@@ -1,0 +1,6 @@
+﻿  Greeter.cpp
+c:\users\100523109\desktop\gameengines\tut1\helloworldplugin\helloworldplugin\greeter.cpp(11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Wrapper.cpp
+  Generating Code...
+     Creating library C:\Users\100523109\Desktop\gameEngines\Tut1\HelloWorldPlugin\Debug\HelloWorldPlugin.lib and object C:\Users\100523109\Desktop\gameEngines\Tut1\HelloWorldPlugin\Debug\HelloWorldPlugin.exp
+  HelloWorldPlugin.vcxproj -> C:\Users\100523109\Desktop\gameEngines\Tut1\HelloWorldPlugin\Debug\HelloWorldPlugin.dll
